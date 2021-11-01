@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProyectotcApplication<proyectotc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.usa.proyectotc.proyectotc.ProyectotcApplication",
+            "projectName": "proyectotc",
+            "args": ""
+        }
+    ]
+}
